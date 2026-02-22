@@ -1,0 +1,215 @@
+        ANINDA'S DHABA
+       Dhanmondi, Dhaka
+--------------------------------
+Order No: 3359
+Date: 2026-01-14
+Customer: Aninda
+Gender: Male
+--------------------------------
+Coke x1
+Taro Boba Tea x1
+Burger x1
+Meat Box x2
+Paratha x2
+Grilled Chicken x1
+Waffle x1
+--------------------------------
+Subtotal: 1345.0 TK
+Auto Discount: -134.5 TK
+Extra Discount: -67.25 TK
+Payable: 1143.25 TK
+Cash: 1200.0 TK
+Change: 56.75 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        ANINDA'S DHABA
+       Dhanmondi, Dhaka
+--------------------------------
+Order No: 2617
+Date: 2026-01-14
+Customer: Aninda
+Gender: Male
+--------------------------------
+Coke x1
+Taro Boba Tea x1
+Burger x1
+Meat Box x2
+Paratha x2
+Grilled Chicken x1
+Waffle x1
+--------------------------------
+Subtotal: 1345.0 TK
+Auto Discount: -134.5 TK
+Extra Discount: -67.25 TK
+Payable: 1143.25 TK
+Cash: 1200.0 TK
+Change: 56.75 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        ANINDA'S DHABA
+       Dhanmondi, Dhaka
+--------------------------------
+Order No: 1452
+Date: 2026-01-14
+Customer: Sadik Sir
+Gender: Male
+--------------------------------
+Coke x1
+Oreo Boba Tea x1
+Strawberry Boba Tea x1
+Caramel Boba Tea x1
+Boba Tea x1
+Taro Boba Tea x1
+--------------------------------
+Subtotal: 1615.0 TK
+Auto Discount: -161.5 TK
+Payable: 1453.5 TK
+Cash: 1500.0 TK
+Change: 46.5 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        ANINDA'S DHABA
+       Dhanmondi, Dhaka
+--------------------------------
+Order No: 7722
+Date: 2026-01-14
+Customer: Aninda
+Gender: Male
+--------------------------------
+Paratha x4
+Grilled Chicken x2
+Coke x1
+--------------------------------
+Subtotal: 405.0 TK
+Extra Discount: -40.5 TK
+Payable: 364.5 TK
+Cash: 500.0 TK
+Change: 135.5 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        ANINDA'S DHABA
+       Dhanmondi, Dhaka
+--------------------------------
+Order No: 7104
+Date: 2026-01-17
+Customer: Noora
+Gender: Female
+--------------------------------
+Strawberry Boba Tea x1
+Sandwich x1
+--------------------------------
+Subtotal: 270.0 TK
+Extra Discount: -27.0 TK
+Payable: 243.0 TK
+Cash: 500.0 TK
+Change: 257.0 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        ANINDA'S DHABA
+       Dhanmondi, Dhaka
+--------------------------------
+Order No: 7576
+Date: 2026-01-17
+Customer: Sadik Sir
+Gender: Male
+--------------------------------
+Chicken Roll x1
+Meat Box x1
+Grilled Chicken x1
+Pizza x1
+Paratha x1
+Oreo Boba Tea x1
+Lychee Boba Tea x1
+Strawberry Boba Tea x1
+--------------------------------
+Subtotal: 1440.0 TK
+Auto Discount: -144.0 TK
+Extra Discount: -144.0 TK
+Payable: 1152.0 TK
+Cash: 2000.0 TK
+Change: 848.0 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        MIDNIGHT CAFÉ
+   Where Nights Taste Better
+       Powered By Aninda
+--------------------------------
+Order No: 2005
+Date: 2026-01-18
+Customer: arif
+Gender: Male
+--------------------------------
+Dudh Cha x1
+Red Tea x1
+Mojo x1
+Water x1
+--------------------------------
+Subtotal: 70.0 TK
+Payable: 70.0 TK
+Cash: 100.0 TK
+Change: 30.0 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        MIDNIGHT CAFÉ
+   Where Nights Taste Better
+       Powered By Aninda
+--------------------------------
+Order No: 4907
+Date: 2026-01-18
+Customer: aa
+Gender: Male
+--------------------------------
+Taro Boba Tea x4
+--------------------------------
+Subtotal: 2000.0 TK
+Auto Discount: -200.0 TK
+Payable: 1800.0 TK
+Cash: 2000.0 TK
+Change: 200.0 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
+        MIDNIGHT CAFÉ
+   Where Nights Taste Better
+       Powered By Aninda
+--------------------------------
+Order No: 4565
+Date: 2026-01-29
+Customer: Arnab
+Gender: Monkey
+--------------------------------
+Coffee x1
+Coke x1
+Meat Box x1
+Pizza x1
+Waffle x1
+Grilled Chicken x1
+Paratha x1
+Burger x1
+Oreo Boba Tea x1
+--------------------------------
+Subtotal: 1415.0 TK
+Auto Discount: -141.5 TK
+Extra Discount: -141.5 TK
+Payable: 1132.0 TK
+Cash: 15000.0 TK
+Change: 13868.0 TK
+--------------------------------
+     Thank you! Visit Again  
+
+
